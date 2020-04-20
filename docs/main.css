@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+body {
+	background-color: green;
+}
+
+.chunk {
+	background-color: white;
+	align-self: center;
+	width: 90%;
+	border-right-width: 150px;
+	height: 100%;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}.main {
+}
