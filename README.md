@@ -16,4 +16,7 @@ Group Members:
 
   Fisseha Abate 
   s3850910@student.rmit.edu.au
+  
+  Kevin Nguyen
+  s3657016@student.rmit.edu.au
 
