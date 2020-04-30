@@ -24,6 +24,7 @@ h2, h3, h4, h5, h6 {
 
 h1 {
     margin-top: 0.3em;
+    
     font-size: 70px;
     text-align: center; 
     color: black;
@@ -41,6 +42,29 @@ samp {
     display: none;
 }
 
+.team-member img {
+    height: 200px;
+    width: 900px;
+}
+
+.team-member {
+    display: flex;
+    padding-top: 15px;
+}
+
+.author-info {
+    padding: 0 0 0 10px;
+}
+
+img {
+    display: block;
+    width: 45%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+/*
+
 img {
     animation: colorize 2s cubic-bezier(0, 0, .78, .36) 1;
     background: transparent;
@@ -51,6 +75,7 @@ img {
     max-width: 95%;
 	max-height: 300px;
 }
+*/
 
 @keyframes colorize {
     0% {
